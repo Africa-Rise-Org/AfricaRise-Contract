@@ -16,5 +16,5 @@ Token Name : Africa Rise.
 Token Symbol: Africa.   
 Supply: 54,000,000.  
 
-BSC address: 0x6205B89a7361BB52A73e6445227B6515D13799B7.  
+BSC address: 0x093A60e9240269733E3C9bEf81e3066273c40fb3.  
 Detail: https://https://africa-rise.org
